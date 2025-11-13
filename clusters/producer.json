@@ -188,7 +188,7 @@
       "value": "Networksdb.io"
     },
     {
-      "description": "Compagny providing comprehensive dataset of internet intelligence",
+      "description": "Company providing comprehensive dataset of internet intelligence",
       "meta": {
         "country": "US",
         "official-refs": [
@@ -204,6 +204,28 @@
       },
       "uuid": "101ca178-12c8-4488-b234-93f263e30b1a",
       "value": "Censys"
+    },
+    {
+      "description": "mThreat Technology Inc. specializes in threat intelligence, IP reputation services, and threat mitigation products, using both realtime threat monitoring and analytics, and active internet probes",
+      "meta": {
+        "country": "CA",
+        "official-refs": [
+          "https://mthreat.com/",
+          "https://spamrats.com/"
+          "https://probethenet.com/"
+          "https://magicspam.com/"
+        ],
+        "products": [
+          "SpamRats RBL (Realtime Blocklist)",
+          "IP Reputation Services",
+          "Network Monitoring",
+          "Threat Intelligence, Analytics, and Mitigation"
+          "Email Threat Mitigation Tools"
+          "MagicSpam Email Security Products"
+        ]
+      },
+      "uuid": "eac96695-638a-4b9f-8fcd-6e52b226d991",
+      "value": "mThreat"
     },
     {
       "description": "DomainIQ is an internet research tool providing information about a domain name, its owner, the server it's hosted on, its ownership history, similar domains and more.",
